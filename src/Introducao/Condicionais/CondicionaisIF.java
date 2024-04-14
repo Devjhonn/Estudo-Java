@@ -1,4 +1,4 @@
-package Introducao;
+package Introducao.Condicionais;
 
 public class CondicionaisIF {
     public static void main(String[] args) {
