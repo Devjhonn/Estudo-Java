@@ -30,6 +30,7 @@ public class Arrays {
         int [] idade2 = {1, 2, 3 ,4, 5};
 
         //outra forma de imprimir o array
+
         //for each
         //o for each não acessa o indice em especifico
         for (int num: idade2){
